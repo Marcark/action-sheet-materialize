@@ -26,3 +26,9 @@ simply add in your html page the code below:
   </ul>
   </div>
 
+```
+# including
+remeber to include in your head of page
+animate.css link
+jquery script link
+m-comp.js script link
