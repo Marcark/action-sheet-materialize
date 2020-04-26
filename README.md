@@ -28,7 +28,12 @@ simply add in your html page the code below:
 
 ```
 # including
-remeber to include in your head of page
+### remember to include in your head of page
+
 animate.css link
+
+
 jquery script link
+
+
 m-comp.js script link
