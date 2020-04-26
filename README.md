@@ -14,6 +14,9 @@ https://code.jquery.com/jquery-3.5.0.min.js
 simply add in your html page the code below:
 
 ```html
+
+
+
 <div class="blackscreen"></div>
   <div class="action-sheet">
     <ul>
@@ -25,6 +28,8 @@ simply add in your html page the code below:
       <li>Chiudi</li>
   </ul>
   </div>
+
+<script type="text/javascript" src="m-comp.js"></script>
 
 ```
 # including
