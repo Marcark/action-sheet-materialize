@@ -1,7 +1,7 @@
 # action-sheet-materialize
 Action Sheet component for Materialize framework
 
-Required
+# Required
 
 ANIMATE.CSS 
 https://raw.githubusercontent.com/daneden/animate.css/master/animate.css
